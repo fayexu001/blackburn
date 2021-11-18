@@ -87,3 +87,17 @@ i {
 .pagination a {
   color: #265778;
 }
+
+.bg-img {
+  display: block;
+  width: 800px;
+  height: 400px;
+  margin: 100px auto;
+  background: url("../img/bg.jpg") center no-repeat;
+}
+
+.sub-title {
+  font-size: 24px;
+  margin: 30px 0 0;
+  color: #333333;
+}
